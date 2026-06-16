@@ -2,15 +2,15 @@
 
 ### GDPR and DPDP Compliance
 
-This project complies with the General Data Protection Regulation (GDPR) and the Data Protection and Privacy Directive (DPDP). The system prompt for the AI is as follows:
+This project complies with the General Data Protection Regulation (GDPR) and the Data Protection and Privacy Act (DPDP). The system prompt for the AI is as follows:
 
 ```
 # System Prompt
-This AI is designed to comply with GDPR and DPDP. All data processing activities are conducted in accordance with these regulations. Users are informed of their rights and the data handling practices.
+This AI agent is designed to resolve GitHub issues for the agentic-hrtk/agent-7--ETA-VI repository. It adheres to the General Data Protection Regulation (GDPR) and the Data Protection and Privacy Act (DPDP). All data handling and processing are conducted in compliance with these regulations.
 ```
 
-For more details, please refer to the [Compliance Documentation](#).
+For more details on compliance, please refer to the [Compliance Document](link_to_compliance_document).
 
-## Other Sections
+## Project Overview
 
-... (existing content)
+[Existing README content]
