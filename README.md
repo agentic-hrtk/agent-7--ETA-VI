@@ -1,30 +1,19 @@
-e6457d551d5821efb382c553a596d91cf564f061
+## Compliance Information
 
-## GDPR and DPDP Compliance
+### GDPR and DPDP Compliance
 
-This project is compliant with the General Data Protection Regulation (GDPR) and the Data Protection and Privacy Directive (DPDP). The following sections outline the key compliance measures implemented in this project:
+This project complies with the General Data Protection Regulation (GDPR) and the Data Protection and Privacy Act (DPDP). The following measures have been implemented to ensure compliance:
 
-### Data Collection
-- Only necessary data is collected.
-- Data collection is transparent, and users are informed about the data being collected and the purpose of collection.
+1. **Data Minimization**: We collect only the data necessary for the operation of the project.
+2. **Data Security**: All data is stored securely and access is restricted to authorized personnel only.
+3. **User Rights**: Users have the right to access, correct, and delete their personal data.
+4. **Data Retention**: Personal data is retained only for as long as necessary for the purposes for which it was collected.
+5. **Data Breach Notification**: In the event of a data breach, users will be notified promptly.
 
-### Data Storage
-- Data is stored securely and is encrypted both in transit and at rest.
-- Access to data is restricted to authorized personnel only.
+For more information, please refer to the [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj) and [DPDP](https://example.com/dpdp) documentation.
 
-### Data Processing
-- Data is processed in a manner that ensures appropriate security and confidentiality.
-- Data is not used for purposes other than those specified at the time of collection.
+---
 
-### User Rights
-- Users have the right to access, correct, and delete their personal data.
-- Users can opt-out of data collection and processing at any time.
+## Project Overview
 
-### Data Breach Notification
-- In the event of a data breach, users will be notified promptly, and appropriate measures will be taken to mitigate the impact.
-
-### Compliance Monitoring
-- Regular audits and assessments are conducted to ensure ongoing compliance with GDPR and DPDP.
-- Any non-compliance issues are addressed promptly.
-
-For more detailed information, please refer to the project's documentation and policies.
+[Existing README content here...]
